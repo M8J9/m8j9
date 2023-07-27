@@ -1,5 +1,7 @@
-### Hi there 👋
-<img src:'https://www.codewars.com/users/Darkangel31/badges/micro'>
+Hi there 👋
+
+
+![CW](https://www.codewars.com/users/Darkangel31/badges/micro)
 
 <!--
 **M8J9/m8j9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
