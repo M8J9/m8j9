@@ -1,5 +1,13 @@
 Hi there 👋
 
+7 years of IT experience mainly focusing on SQL. Currently working on front and backend development work. 
+
+- SQL
+- HTML
+- CSS
+
+Currently learning php and javascript.
+
 
 ![CW](https://www.codewars.com/users/Darkangel31/badges/micro)
 
