@@ -1,6 +1,6 @@
 Hi there 👋
 
-7 years of IT experience mainly focusing on SQL. Currently working on front and backend development work. 
+Self taught coder with 7 years of professional experience mainly focusing in SQL. Currently working on front and backend development work. 
 
 - SQL
 - HTML
